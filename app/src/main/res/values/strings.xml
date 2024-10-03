@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test project</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+</resources>
